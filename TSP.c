@@ -1,4 +1,4 @@
-// C++ program to solve Traveling Salesman Problem
+// C program to solve Traveling Salesman Problem
 // using Branch and Bound.
 #include<stdio.h>
 #include<string.h>
